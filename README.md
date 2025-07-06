@@ -1,4 +1,4 @@
-# 🌐 NetScope: Visualize & Analyze Your Network in Real-Time
+# 🌐 NetScope: Real-Time Network Traffic Visualizer
 
 A lightweight network data visualization tool that helps you:
 
