@@ -47,3 +47,16 @@ http://localhost:5000
 ## ✅ You're all set!
 
 Enjoy exploring your network traffic like never before with **NetScope** — because understanding your data shouldn't be boring.
+
+## Author
+
+Email: tharshit03@gmail.com  
+GitHub: [@tyagi0320](https://github.com/tyagi0320)
+
+----
+
+## License 
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
